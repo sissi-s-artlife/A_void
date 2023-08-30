@@ -17,7 +17,7 @@ To honor Perec's concept, we'll create a Python program that checks a text for t
 
 This project includes:
 - A Python program prompting users for text input.
-- A function to counts the 'e'.
+- A function that counts the letter 'e'.
 - A display that shows the statistics of letter 'e' which was found in the text.
 - A display that shows your text without the letter 'e' which reflects on how constraints influence language.
 
