@@ -19,7 +19,7 @@ This project includes:
 - A Python program prompting users for text input.
 - A function to counts the 'e'.
 - A display that shows the statistics of letter 'e' which was found in the text.
-- Reflection on how constraints influence language.
+- A display that shows your text without the letter 'e' which reflects on how constraints influence language.
 
 ## Getting Started
 
