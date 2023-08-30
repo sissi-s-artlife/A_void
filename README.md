@@ -25,7 +25,7 @@ This project includes:
 
 1. Ensure you have Python installed.
 2. Clone or download this repository.
-3. Open `check_e.py` to view/run the Python program.
+3. Open `main.py` to view/run the Python program.
 4. Follow program instructions to input text and observe results.
 
 ## Conclusion
