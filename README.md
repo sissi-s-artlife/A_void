@@ -7,7 +7,7 @@ This project draws inspiration from Georges Perec's literary achievements, parti
 
 ## Georges Perec and the Power of Constraints
 
-Georges Perec was a member of the Oulipo group, a collective of writers who experimented with literary constraints. Omitting 'e' in "La Disparition" is a profound example of constraints conveying powerful messages. The absence of 'e' symbolizes the Holocaust's silence and serves as a tribute and linguistic balancing act.
+Georges Perec was a member of the Oulipo group, a collective of writers who experimented with literary constraints. Omitting 'e' in "La Disparition" is a profound example of constraints conveying powerful messages.The author lost his mother (mère in French) and father (père in French) in Auschwitz concentration camps.The absence of 'e' symbolizes the Holocaust's silence and serves as a tribute and linguistic balancing act.
 
 ## Connecting the Idea to a Python Project
 
